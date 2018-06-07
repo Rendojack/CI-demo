@@ -1,11 +1,10 @@
 language: csharp
 mono: none
 dotnet: 2.0.0
-
-install:
-- dotnet restore
-
+dist: trusty
+sudo: required
+solution: src/TestConsoleApp.sln
 script:
- - dotnet build
- - dotnet test src/TestConsoleApp/TestConsoleApp.csproj
-
+  - cd src
+  - dotnet restore
+  - dotnet build -c Release
