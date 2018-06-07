@@ -7,7 +7,7 @@
     </thread>
     <tbody>
         <tr>
-            <td><strong>Build</strong></td>
+            <td>Build</td>
             <td>
               <a href="https://travis-ci.org/Rendojack/CI-demo">
                 <img src="https://travis-ci.org/Rendojack/CI-demo.svg?branch=master">
@@ -20,7 +20,7 @@
             </td>
         </tr>
         <tr>
-            <td><strong>Coverage</strong></td>
+            <td>Coverage</td>
             <td colspan=2>
               <a href="https://coveralls.io/github/Rendojack/CI-demo?branch=master">
                 <img src="https://coveralls.io/repos/github/Rendojack/CI-demo/badge.svg?branch=master">
