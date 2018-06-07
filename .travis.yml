@@ -8,4 +8,3 @@ script:
   - cd src
   - dotnet restore
   - dotnet build -c Release
-  - dotnet test Release
