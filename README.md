@@ -1,4 +1,4 @@
-# Continuous Integration test
+# Continuous Integration demo
 
 Travis | AppVeyor
 --- | ---
