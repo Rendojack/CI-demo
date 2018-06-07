@@ -28,10 +28,5 @@
               </a>
             </td>
         </tr>
-        <tr>
-            <td><strong>Quality</strong></td>
-            <td colspan=2>              
-            </td>
-        </tr>
     </tbody>
 </table>
