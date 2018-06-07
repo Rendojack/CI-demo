@@ -8,3 +8,4 @@ script:
   - cd src
   - dotnet restore
   - dotnet build -c Release
+after_success: "sbt coveralls"
