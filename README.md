@@ -3,9 +3,6 @@
 .NET core 2.0 console application.
 
 <table>
-    <thread>
-        <th colspan=3></th>
-    </thread>
     <tbody>
         <tr>
             <td><strong>Build</strong></td>
